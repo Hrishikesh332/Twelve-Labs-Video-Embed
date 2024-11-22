@@ -1,0 +1,7 @@
+streamlit
+gunicorn
+pandas
+pymilvus
+milvus
+twelvelabs
+python-dotenv
