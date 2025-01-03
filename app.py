@@ -124,7 +124,7 @@ def generate_embedding(video_url, product_info):
         twelvelabs_client = TwelveLabs(api_key=TWELVELABS_API_KEY)
 
         task = twelvelabs_client.embed.task.create(
-            engine_name="Marengo-retrieval-2.6",
+            model_name="Marengo-retrieval-2.7",
             video_url=video_url
         )
 
@@ -207,13 +207,6 @@ def process_products():
       "desc": "Get edgy with our black women leather biker jacket. Featuring lapel collar, belt, and premium leather, perfect for a chic, mysterious look.Embrace the biker chic with our stunning black women leather biker jacket. Crafted from high-quality leather, this stylish design boasts: Lapel collar for added",
       "link": "https://www.myntra.com/31014584",
       "video_url": "https://storage.googleapis.com/testing002-fashion/Black_Women_Leather_Biker_Jacket.mp4"
-    },
-    {
-      "product_id": "27205110",
-      "title": "Sharvari's Look",
-      "desc": "Shop Sharvari's look.",
-      "link": "https://www.myntra.com/27205110",
-      "video_url": "https://storage.googleapis.com/testing002-fashion/sharvari_look.mp4"
     },
     {
       "product_id": "19482596",
