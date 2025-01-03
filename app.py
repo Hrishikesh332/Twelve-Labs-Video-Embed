@@ -199,21 +199,28 @@ def process_products():
       "title": "Manscaping Guide",
       "desc": "Manscaping is no more a hush-hush thing to talk about, it's a personal choice if you wanna get rid of your body hair or not to help out with this in this today's episode of You Got This Bro here are some tips for you so that can have smooth and fuss-free experience. Watch now! Tap to shop products.",
       "link": "https://www.myntra.com/1996777",
-      "video_url": "https://storage.googleapis.com/test002-weavite/mens%20shirt.mp4"
+      "video_url": "https://test-001-fashion.s3.eu-north-1.amazonaws.com/mens+shirt.mp4"
     },
     {
       "product_id": "31014584",
       "title": "Black Women Leather Biker Jacket",
       "desc": "Get edgy with our black women leather biker jacket. Featuring lapel collar, belt, and premium leather, perfect for a chic, mysterious look.Embrace the biker chic with our stunning black women leather biker jacket. Crafted from high-quality leather, this stylish design boasts: Lapel collar for added",
       "link": "https://www.myntra.com/31014584",
-      "video_url": "https://storage.googleapis.com/test002-weavite/Black_Women_Leather_Biker_Jacket.mp4"
+      "video_url": "https://test-001-fashion.s3.eu-north-1.amazonaws.com/Black_Women_Leather_Biker_Jacket.mp4"
     },
     {
       "product_id": "19482596",
       "title": "Sakhi - Bridesmaid Collection",
       "desc": "With the wedding season around the corner, we bring to you \"Sakhi\" - the ultimate destination to all your bridesmaid fashion needs.",
       "link": "https://www.myntra.com/19482596",
-      "video_url": "https://storage.googleapis.com/test002-weavite/Sakhi_Bridesmaid_Collection.mp4"
+      "video_url": "https://test-001-fashion.s3.eu-north-1.amazonaws.com/Sakhi_Bridesmaid_Collection.mp4"
+    },
+      {
+      "product_id": "194825963",
+      "title": "Sharvari Look",
+      "desc": "Sharvari Look at Conference",
+      "link": "https://www.myntra.com/27205110",
+      "video_url": "https://test-001-fashion.s3.eu-north-1.amazonaws.com/sharvari_look.mp4"
     }
   ]
 }
